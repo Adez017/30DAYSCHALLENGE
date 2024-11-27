@@ -13,6 +13,7 @@ The repository is divided into folders based on weeks. Here's the structure:
    ├── Day 1/
    ├── Day 2/
    ├── ...
+```
 Each folder contains solutions to the problems tackled on that specific day.
 
 ### 🛠️ How We Solve Problems
