@@ -9,10 +9,19 @@ Welcome to the **30 Days of DSA Challenge**! This repository is a part of our co
 The repository is divided into folders based on weeks. Here's the structure:
 
 ```plaintext
-📁 Week 1/
-   ├── Day 1/
-   ├── Day 2/
-   ├── ...
+📁 Week1/
+   ├── 📁 Day1/
+   │     ├── file1
+   │     └── file2
+   ├── 📁 Day2/
+   │     ├── file1
+   │     └── file2
+   └── 📁 Day3/
+         ├── file1
+         └── file2
+.
+.
+
 ```
 Each folder contains solutions to the problems tackled on that specific day.
 
