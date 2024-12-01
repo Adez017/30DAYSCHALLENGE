@@ -19,8 +19,10 @@ The repository is divided into folders based on weeks. Here's the structure:
    └── 📁 Day3/
          ├── file1
          └── file2
-.
-.
+   |
+   |
+   .
+   .
 
 ```
 Each folder contains solutions to the problems tackled on that specific day.
@@ -62,7 +64,8 @@ Try the problems yourself and compare your approach!
 
 | Week             | status                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Week 1| 🚧 In Progress |
+| Week 1| ✅ completed |
+| Week 2|  🚧 In Progress|
 
 ### 📬 Feedback & Contributions
 
