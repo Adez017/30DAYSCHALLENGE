@@ -1,75 +1,31 @@
-# 30 Days of DSA Challenge 🚀
+# Explanation of the Week 2 Directory Structure
 
-Welcome to the **30 Days of DSA Challenge**! This repository is a part of our commitment to consistently practice and master **Data Structures and Algorithms (DSA)**. Every day, we solve DSA problems and upload our solutions here, organized week by week.
+The **Week 2** folder in our challenge is organized to reflect both the theoretical foundations and practical coding exercises. Here's how it's structured:
+
+## 1. Day 1 - Theory Concepts  
+This subfolder covers the foundational theory essential for understanding string operations. It includes topics like:  
+- **Substrings**: Different ways of extracting continuous sequences of characters.  
+- **Subsequences**: Non-contiguous sequences maintaining the relative order.  
+- **Anagrams**: Reordering characters to form another word or phrase.  
+- **String Matching**: Techniques for finding patterns within strings.  
+
+These concepts set the stage for the coding exercises that follow.
 
 ---
 
-## 🗂️ Folder Structure
+## 2. Day 1 - Actual Coding (Renamed)  
+Since the theoretical part is foundational, we begin our hands-on coding from what we call **"Day 1 of Actual Coding."** This subfolder contains:  
+- **Problem Statements**: A list of string-related challenges to apply the concepts learned.  
+- **Solutions**: Well-documented solutions with step-by-step explanations.  
+- **Test Cases**: Sample inputs and expected outputs for thorough validation.  
 
-The repository is divided into folders based on weeks. Here's the structure:
+---
 
-```plaintext
-📁 Week1/
-   ├── 📁 Day1/
-   │     ├── file1
-   │     └── file2
-   ├── 📁 Day2/
-   │     ├── file1
-   │     └── file2
-   └── 📁 Day3/
-         ├── file1
-         └── file2
-   |
-   |
-   .
-   .
+## 3. Supplementary Materials  
+- **Notes**: Detailed notes summarizing key concepts and insights.  
+- **References**: Links to external resources for deeper understanding.  
+- **Discussion Forum**: A shared space for team members to collaborate and discuss solutions or doubts.  
 
-```
-Each folder contains solutions to the problems tackled on that specific day.
+---
 
-### 🛠️ How We Solve Problems
-- Understand the Problem: Carefully read and analyze the problem statement.
-- Plan the Solution: Think of the most efficient algorithm.
-- Code the Solution: Implement the algorithm in your preferred programming language.
-- Optimize and Review: Ensure the solution is optimal and meets all edge cases.
-- Upload to Repository: Push the code to this repo.
-
-### 🏆 Goals of the Challenge
-- Consistency: Solve at least one DSA problem every day for 30 days.
-- Improvement: Strengthen problem-solving skills.
-- Learning: Explore foundational data structures and algorithms.
-- Sharing: Maintain a record of our journey and help others learn.
-
-### 📚 Topics Covered
-Here are the core topics we’re focusing on during this challenge:
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks and Queues
-- Sorting and Searching
-- Hashing
-- and more
-
-### 🚀 How to Use This Repo
-Clone the repository:
-``` bash
-git clone https://github.com/your-username/30-days-dsa-challenge.git
-```
-
-Navigate to the relevant folder and explore the solutions.
-Try the problems yourself and compare your approach!
-
-### 📈Progress Tracker
-
-| Week             | status                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Week 1| ✅ completed |
-| Week 2|  🚧 In Progress|
-
-### 📬 Feedback & Contributions
-
-Found a better solution or have suggestions? Feel free to open a Pull Request or Issue. Let’s learn and grow together!
-
-#### Author
-- [@Aditya Singh Rathore](https://www.github.com/Adez017)
+This structure ensures a seamless transition from theory to practice, providing a robust learning experience and enabling a deeper understanding of string manipulation concepts.
