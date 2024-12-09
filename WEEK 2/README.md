@@ -2,7 +2,7 @@
 
 The **Week 2** folder in our challenge is organized to reflect both the theoretical foundations and practical coding exercises. Here's how it's structured:
 
-## 1. Day 1 - Theory Concepts  
+## 1. Day 0 - Theory Concepts  
 This subfolder covers the foundational theory essential for understanding string operations. It includes topics like:  
 - **Substrings**: Different ways of extracting continuous sequences of characters.  
 - **Subsequences**: Non-contiguous sequences maintaining the relative order.  
@@ -18,13 +18,6 @@ Since the theoretical part is foundational, we begin our hands-on coding from wh
 - **Problem Statements**: A list of string-related challenges to apply the concepts learned.  
 - **Solutions**: Well-documented solutions with step-by-step explanations.  
 - **Test Cases**: Sample inputs and expected outputs for thorough validation.  
-
----
-
-## 3. Supplementary Materials  
-- **Notes**: Detailed notes summarizing key concepts and insights.  
-- **References**: Links to external resources for deeper understanding.  
-- **Discussion Forum**: A shared space for team members to collaborate and discuss solutions or doubts.  
 
 ---
 
