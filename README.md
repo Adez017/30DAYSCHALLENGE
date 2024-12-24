@@ -66,7 +66,8 @@ Try the problems yourself and compare your approach!
 | ----------------- | ------------------------------------------------------------------ |
 | Week 1| ✅ completed |
 | Week 2|  ✅ completed|
-| Week 3|  🚧 In Progress|
+| Week 3|  ✅ completed|
+| Week 4| 🚧 In Progress |
 
 ### 📬 Feedback & Contributions
 
